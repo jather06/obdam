@@ -1,0 +1,13 @@
+baseURL = "/"
+languageCode = "en-US"
+title = "Obdam Tuinverzorging"
+theme="hugo-PaperMod"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "Posts"
+    name = "Home"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/home/"
+    weight = -100
